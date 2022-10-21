@@ -1,11 +1,12 @@
 public class Actividad3 {
+   
     public static void main(String[] args) {
         //Variables//
         //Punto 1
         String saludo ="Hola";
         //Punto 2,3,4
         String nombre ="Juan";
-        int edad = "32";
+        int edad = 32;
         //Punto 5
         String data1 = "Primero";
         String data2 = "Segundo";
@@ -35,5 +36,5 @@ public class Actividad3 {
         //Otra forma Punto 6
         System.out.printf("%d\\%d =\" \t %.2f\"\n",valor1,valor2,result);
     }
-    
+
 }
